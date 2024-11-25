@@ -671,4 +671,12 @@ body{
       width: 75%;
     }
   }
+  .order{
+    text-align: center;
+    justify-items: center;
+  }
+  .about{
+    text-align: center;
+    justify-items: center;
+  }
 }
