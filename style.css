@@ -663,4 +663,12 @@ body{
   .backdrop{
     display: none;
   }
+  .contact-form{
+    width: 250px;
+  }
+  .gallery{
+    img{
+      width: 75%;
+    }
+  }
 }
