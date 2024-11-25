@@ -233,6 +233,8 @@ body{
 
 .order-item{
   width: 300px;
+  text-align: center;
+  justify-items: center;
   padding-bottom: 20px;
   border-radius: 15px;
   border-style: ridge;
@@ -274,6 +276,8 @@ body{
 
 .about-item{
   width: 70%;
+  text-align: center;
+  justify-items: center;
   .english{
     margin-bottom: 20px;
     padding: 15px 0;
@@ -557,6 +561,22 @@ body{
   .backdrop{
     display: none;
   }
+  .order{
+    text-align: center;
+    justify-items: center;
+  }
+  .order-item{
+    text-align: center;
+    justify-items: center;
+  }    
+  .about{
+    text-align: center;
+    justify-items: center;
+  }
+  .about-item{
+    text-align: center;
+    justify-items: center;
+  }
 }
 
 @media (min-width: 960px) and (max-width:1080px){
@@ -571,6 +591,22 @@ body{
   .menu-item {
       width: 100%;
       max-width: 300px;
+  }
+  .order{
+    text-align: center;
+    justify-items: center;
+  }
+  .order-item{
+    text-align: center;
+    justify-items: center;
+  }    
+  .about{
+    text-align: center;
+    justify-items: center;
+  }
+  .about-item{
+    text-align: center;
+    justify-items: center;
   }
 }
 
@@ -675,7 +711,15 @@ body{
     text-align: center;
     justify-items: center;
   }
+  .order-item{
+    text-align: center;
+    justify-items: center;
+  }    
   .about{
+    text-align: center;
+    justify-items: center;
+  }
+  .about-item{
     text-align: center;
     justify-items: center;
   }
